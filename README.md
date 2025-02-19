@@ -1,4 +1,4 @@
-logo: MyImage.png
+MyImage.png
 
 #Project 1
 

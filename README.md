@@ -1,5 +1,3 @@
-MyImage.png
-
 #Project 1
 
 **Title:** [VRINDA STORE 2022 SALES REPORT](https://github.com/Vchi5/Vchi5.github.io/blob/main/Mydashboard.xlsx)

@@ -11,6 +11,8 @@
 **Dashboard Overview:**
 ![DashboardCapturee](DashboardCapturee.PNG)
 
+
+
 #Project 2
 
 **Title:** Employee Record - SQL Data Manipulation and Interrogating
@@ -26,3 +28,18 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Project Description:**
  
 **Technology used:** SQL server
+
+
+
+#Project 3 
+
+**Title:** [TECHDRIVE SUPER STORE SALES PERFORMANCE 2023](https://github.com/Vchi5/Vchi5.github.io/blob/main/PowerBiDashboardGithub.pbix)
+
+**Tools Used:**
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![PowerBiDashboardCapture](PowerBiDashboardCapture.PNG)

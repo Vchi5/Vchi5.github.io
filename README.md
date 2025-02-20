@@ -35,7 +35,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Title:** [TECHDRIVE SUPER STORE SALES PERFORMANCE 2023](https://github.com/Vchi5/Vchi5.github.io/blob/main/PowerBiDashboardGithub.pbix)
 
-**Tools Used:**
+**Tools Used:** PowerBi
 
 **Project Description:**
 
